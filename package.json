@@ -1,5 +1,6 @@
 {
   "name": "spotifyplaylistmaker",
+  "homepage": "https://swizkhalifaa.github.io/SpotifyPlaylistMaker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
